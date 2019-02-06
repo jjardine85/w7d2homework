@@ -1,0 +1,40 @@
+h1 {
+  font-size: 4em;
+  font-family: Roboto, sans-serif;
+  text-decoration: underline;
+  color: #cccccc;
+}
+
+h2 {
+  font-size: 2em;
+  font-family: 'Roboto', sans-serif;
+  color: #cccccc;
+  text-decoration: underline;
+}
+
+h3 {
+  font-size: 2em;
+  font-family: Roboto, sans-serif;
+  color: #cccccc;
+  text-decoration: underline;
+}
+
+body {
+  background-color: #e6ffff;
+  color: #996600;
+}
+
+label {
+  text-decoration: overline underline;
+  font-size: 2em;
+  font-family: 'Roboto Mono', monospace;
+}
+
+#instrument-families {
+  font-size: 2em;
+}
+
+#instrument-family {
+  font-size: 1.5em;
+  font-family: 'Roboto Mono', monospace;
+}
